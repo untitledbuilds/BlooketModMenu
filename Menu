@@ -178,7 +178,7 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - 005Konz",
+                    innerHTML: "GitHub - UntitledBuilds",
                     onclick: () => window.open("https://github.com/005Konz/Blooket-Cheats", "_blank").focus()
                 }),
                 (controlButtons = createElement("div", {
@@ -604,7 +604,7 @@
                     }
                 },
                 {
-                    name: "Subtle Highlight Answers",
+                    name: "Subtle Answer ESP",
                     description: "Toggles subtle highlight answers on",
                     type: "toggle",
                     enabled: false,
